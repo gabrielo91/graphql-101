@@ -34,12 +34,12 @@
     {
       "id": "2",
       "name": "Andrea Inc",
-      "adescription": "some fancy description"
+      "description": "some fancy description"
     },
     {
       "id": "3",
       "name": "Samantha Inc",
-      "adescription": "some fancy description"
+      "description": "some fancy description"
     }
   ]
 }
