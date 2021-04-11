@@ -29,17 +29,17 @@
     {
       "id": "1",
       "name": "Gabriel Inc",
-      "description": "some fancy description"
+      "description": "some fancy description 1"
     },
     {
       "id": "2",
       "name": "Andrea Inc",
-      "description": "some fancy description"
+      "description": "some fancy description 2"
     },
     {
       "id": "3",
       "name": "Samantha Inc",
-      "description": "some fancy description"
+      "description": "some fancy description 3"
     }
   ]
 }
